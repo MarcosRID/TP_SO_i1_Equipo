@@ -5,3 +5,8 @@ Marcos Ruben Iglesias Desmond
   a-Se ven los datos cargados por los usuarios agregados al proyecto padre.
   b-SI.
   e-A traves de Proyects.
+
+ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+    SI
+ d-¿De qué forma se comunicaron ustedes?
+   Google Meet y Projects

@@ -1,2 +1,7 @@
 Cristian Romano 
 Marcos Ruben Iglesias Desmond
+
+4)
+  a-Se ven los datos cargados por los usuarios agregados al proyecto padre.
+  b-SI.
+  e-A traves de Proyects.
